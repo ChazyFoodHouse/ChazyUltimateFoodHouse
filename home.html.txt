@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chazy's Food House</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #f1f1f1;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #333;
+      padding: 10px;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav ul li {
+      display: inline;
+      margin-right: 10px;
+    }
+
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+    }
+
+    main {
+      padding: 20px;
+    }
+
+    footer {
+      background-color: #f1f1f1;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Chazy's Food House</h1>
+  </header>
+  <hr>
+  <nav>
+  <table cellspacing="5" cellpadding="5">
+    <tr>
+	<td><a href="index.html">Home</a></td>
+	<td><a href="menu.html">Menu</a></td>
+	<td><a href="about.html">About</a></td>
+	<td><a href="contact.html">Contact</a></td>
+	<td><a href="Photos.html">Photos</a></td>
+	
+	</tr>
+  </nav>
+</body>
+ 
+
+	
+	
+  </main>

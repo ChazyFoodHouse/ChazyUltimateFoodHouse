@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> ABOUT </title>
+<body>
+<h1>ABOUT Chazy's Food House </h1>
+
+<h2>Chazy's Food House  is Craving delicious Filipino food cooked with love?
+Look no further than Chazy's Food House! We're a family-run restaurant located in Tuble, Moalboal, Cebu,
+bringing the warmth of Cebuano cuisine straight to your plate. Our dishes are prepared using fresh,
+local ingredients and traditional recipes passed down through generations. Whether you're a local resident or just visiting the area,
+Chazy's Food House is the perfect place to experience the taste of Cebu.
+Come savor our flavorful dishes and friendly service in a welcoming atmosphere.
+We look forward to serving you!
+</h2>
+
+<style> 
+<style>
+body{
+background-image: url('chazy.jpg');
+background-size: 10000px;
+background-color: 100% 100%;
+}
+</style>
+<img src="chazy.jpg">
+</img>
+
+<p> CHAZY'S FOOD HOUSE 2024 ALL RIGHTS RESERVED.</p>

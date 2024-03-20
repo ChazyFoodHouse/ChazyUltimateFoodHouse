@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head><title>Chazy's Food House</title></head>
+<body>
+<header>
+
+</header
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td>Home</td>
+<td>Menu</td>
+<td>About</td>
+<td>Contact</td>
+<td>Photos</td>
+</tr>
+</nav>
+</body>
